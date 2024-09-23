@@ -1,0 +1,15 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+die	1	214928	392	392	0	15	1865.916	4.351
+der	2	192947	156	156	0	12	439.066	3.178
+alte	3	3498	11	11	0	3	57.156	5.137
+zur	4	9135	10	10	0	3	31.872	3.615
+junge	5	3453	7	7	0	4	30.398	4.504
+morgenländischen	6	17	2	2	0	1	24.985	10.363
+alten	7	3555	6	6	0	4	23.952	4.239
+frau	8	11840	9	9	0	4	22.745	3.089
+deutsche	9	368	3	3	0	1	21.183	6.512
+gnädigste	10	68	2	2	0	1	19.263	8.363
+erschossene	11	2	1	1	0	1	15.875	12.450
+eine	12	43567	13	13	0	8	13.255	1.740
+aufzufallen	13	11	1	1	0	1	11.947	9.991
+erlauchte	13	11	1	1	0	1	11.947	9.991
