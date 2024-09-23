@@ -1,4 +1,4 @@
-# Projekt-Genderdarstellungen in literarischen Texten vom 17. bis 20. Jahrhundert
+# Projekt "Genderdarstellungen in narrativen Texten vom 17. bis 20. Jahrhundert"
 
 Das Projekt untersucht mögliche Genderdarstellungen und Zuschreibungen von Genderentitäten in narrativen Texten. Das Genderkorpus beihaltet 92 narrative Texte aus dem 17. bis 21. Jahrhundert.
 
