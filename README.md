@@ -15,7 +15,7 @@ Die Datei "MFAdjektive_Gendernetzwerk" enthält eine Visualisierung des Netzwerk
 
 'Word Embeddings mit word2vec': Dieser Ordner enthält im Unterordner "Abfrageergebnisse im XLSX-Format" in drei Tabellen, je eine für eine Genderkategorie, die mit word2vec extrahierten semantisch ähnlichsten Wörter zu den 20 bzw. 10 häufigsten Named Entities. 
 Daneben befindet sich hier die DOCX-Datei "Verteilung Ähnlichste Wörter" mit einer tabellarischen Übersicht zu den Genderverhältnissen innerhalb der häufigsten Wörter. 
-Im Ordner 'Word Embeddings mit word2vec' ist außerdem eine Grafik zu semantischen Feldern innerhalb des Genderkorpus enthalten.
+Im Ordner 'Word Embeddings mit word2vec' ist außerdem eine Grafik zu den semantischen Feldern der Begriffe Mann, Frau und Mensch enthalten.
 
 'vis-à-vis': Hier findet sich in 'Charts' zu jedem narrativen Text eine mit vis-à-vis erstellte Visualisierung zu den jeweiligen Gender-Verteilungen. Eine Grafik für die Häufigkeiten der einzelnen Gender im gesamten Korpus befindet sich in der Datei "Kuchendiagramm_Genderverteilung".
 
