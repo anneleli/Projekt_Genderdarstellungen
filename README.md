@@ -14,6 +14,7 @@ Die Datei "MFAdjektive_Gendernetzwerk" enthält eine Visualisierung des Netzwerk
 'Narrative Texte': Hier ist einerseits das Genderkorpus mit den Texten im TXT-Format vorhanden. Im Ordner "XML-Format" befinden sich hier auch alle Texte, wie sie für die Analyse mit Catma verwendet wurden.
 
 'Word Embeddings mit word2vec': Dieser Ordner enthält im Unterordner "Abfrageergebnisse im XLSX-Format" in drei Tabellen, je eine für eine Genderkategorie, die mit word2vec extrahierten semantisch ähnlichsten Wörter zu den 20 bzw. 10 häufigsten Named Entities. 
+Im Unterordner "verwendete Notebooks" befinden sich in der Arbeit verwendete, von Mareike Schumacher bereitgestellte, Jupyter-Notebooks. 
 Daneben befindet sich hier die DOCX-Datei "Verteilung Ähnlichste Wörter" mit einer tabellarischen Übersicht zu den Genderverhältnissen innerhalb der häufigsten Wörter. 
 Im Ordner 'Word Embeddings mit word2vec' ist außerdem eine Grafik zu den semantischen Feldern der Begriffe Mann, Frau und Mensch enthalten.
 
