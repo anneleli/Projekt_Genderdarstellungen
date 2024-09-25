@@ -8,8 +8,8 @@ Dieses Repository enthält die im Projekt verwendeten Daten:
 
 'AntConc Kollokationen': Hier sind einerseits die aus AntConc exportierten Kollokationslisten für die 20 bzw. 10 häufigsten Named Entities enthalten. Für jede Genderkategorie wurde ein Ordner "Ergebnisse im TXT-Format" angelegt. Außerdem befinden sich hier im Ordner "Ergebnistabellen im XLSX-Format" drei Tabellen. Für jede Genderkategorie sind in einer Tabelle jeweils alle gefundenen Kollokationen zusammengefasst. 
 
-'Gephi Netzwerkanalyse': In diesem Ordner befinden sich die Datentabellen für das mit Gephi erstellte Netzwerk der im Textkorpus häufigsten Adjektive.
-Die Datei "MFAdjektive_Gendernetzwerk" enthält eine Visualisierung des Netzwerks.
+'Gephi Netzwerkanalyse': In diesem Ordner befinden sich die Daten für die mit Gephi erstellten Netzwerke. Entsprechend den durchgeführten Analysen ist der Ordner in die Unterordner "Häufigste Adjektive" und "Häufigste Named Entities" unterteilt.
+Die Datei "MFAdjektive_Gendernetzwerk" enthält das visualisierte Netzwerk der häufigsten Adjektive.
 
 'Narrative Texte': Hier ist einerseits das Genderkorpus mit den Texten im TXT-Format vorhanden. Im Ordner "XML-Format" befinden sich hier auch alle Texte, wie sie für die Analyse mit Catma verwendet wurden.
 
